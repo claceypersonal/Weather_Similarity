@@ -1,0 +1,6 @@
+*.xls
+*.env
+mirror.txt
+*.csv
+*.json
+/CITYJSON
