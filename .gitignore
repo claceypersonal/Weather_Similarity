@@ -5,3 +5,4 @@ mirror.txt
 *.json
 /CITYJSON
 Data Retrieval/naturalearth
+wfrontend/node_modules
